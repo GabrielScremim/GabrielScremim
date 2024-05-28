@@ -1,4 +1,4 @@
-## Skills Git Gabriel Scremim 👋
+## Gabriel Scremim 👋
 
 
 
