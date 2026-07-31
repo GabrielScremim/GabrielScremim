@@ -20,7 +20,7 @@ Atualmente desenvolvendo aplicações utilizando <strong>.NET</strong>, <strong>
 * 📚 Aprimorando conhecimentos em **Redes de Computadores**
 * 🎯 Em busca de oportunidades para atuar como **Desenvolvedor Backend .NET**
 
----
+<!-- --- -->
 
 <!-- ## 📊 Estatísticas  -->
 
