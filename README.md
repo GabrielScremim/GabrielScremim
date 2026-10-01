@@ -9,7 +9,13 @@ Apaixonado por tecnologia e por transformar ideias em software.
 <br>
 Atualmente desenvolvendo aplicações utilizando <strong>.NET</strong>, <strong>Entity Framework Core</strong>, <strong>PostgreSQL</strong> e <strong>Next.js</strong>, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 </p>
-
+  
+---
+<div align="center">
+<img height ="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielScremim&show_icons=true&theme=dracula&include_all_commits=true"/>
+<img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielScremim&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
+<div/>
+  
 ---
 
 ## 🚀 Sobre mim
